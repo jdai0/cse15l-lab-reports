@@ -1,9 +1,9 @@
-# Heading 1 HELLO
-## Heading 2 HELLO
-*Italic* hello
-**Bold** hello
-[Link](http://Google.com)
-![Image] (https://cdn.britannica.com/55/174255-050-526314B6/brown-Guernsey-cow.jpg)
+# HELLO
+## HELLO AGAIN
+*hello* 
+**hello again** 
+[Link to Google](http://Google.com)
+![Image of cow](https://cdn.britannica.com/55/174255-050-526314B6/brown-Guernsey-cow.jpg)
 > Blockquote cow
 * 1
 * 2
